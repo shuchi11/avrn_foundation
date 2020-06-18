@@ -1,0 +1,36 @@
+.card-columns {
+    @include media-breakpoint-only(lg) {
+      column-count: 4;
+    }
+    @include media-breakpoint-only(xl) {
+      column-count: 5;
+    }
+  }
+  .card-body{
+    padding: 0.5;
+  }
+  .textb{
+    font-family: 'Roboto Slab', serif;
+  }
+  .card-set1{
+    background-color: #9799ba;
+  }
+
+  .card-set2{
+    background-color: #cc6666;
+  }
+  .card-set3{
+    background-color: #cc9966;
+  }
+  h3.card-title{
+    font-size: 1.5rem;
+  }
+  p.card-text{
+    padding-bottom: 0.2rem;
+    line-height: 1.2rem;
+  }
+.card-set4{
+    background-color:#980147;
+  }
+
+
