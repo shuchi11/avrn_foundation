@@ -18,6 +18,9 @@ class Main_controller extends CI_Controller{
     public function open_about_us(){
         $this->load->view('about_us');
     }
+    public function open_our_contribution(){
+        $this->load->view('our_contribution');
+    }
 
 }
 ?>

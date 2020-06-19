@@ -7,7 +7,7 @@
       $this->view('includes/nav.php');
     ?>
    <h1 style="text-align: center;">OUR TEAM</h1>
-    <div class="container mt-5">
+
         <div class="shadow p-3 mb-5  rounded container">
         <div class="card-deck">
             <div class="card card-set4 text-white">
@@ -43,7 +43,7 @@
                 </div>
               </div>
           </div>
-        </div>
+      </div>
         <div class="b1">
     <div class="container">
       <div class="row">

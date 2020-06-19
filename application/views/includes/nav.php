@@ -1,4 +1,4 @@
-<nav class="navbar navbar-dark navbar-expand-lg " style="background-color: #f79e02; color: black;" >
+<nav class="navbar navbar-expand-lg fixed-top " style="background-image: linear-gradient(-90deg, #ccffff,#FF6699);" >
       <a class="navbar-brand" href="#">
         <img src="<?php echo base_url('assets/images/loogo.png')?>" alt="" loading="lazy">
       </a>
@@ -25,7 +25,7 @@
             <a class="nav-link" href="<?php echo base_url('Main_controller/open_about_us')?>">About us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact us</a>
+            <a class="nav-link" href="<?php echo base_url('Main_controller/open_our_contribution')?>">Our contributions</a>
           </li>
         </ul>
         

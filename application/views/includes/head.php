@@ -13,7 +13,7 @@
     <link  href="<?php echo base_url ('assets/css/owl.carousel.css')?>" rel="stylesheet">
     <link href="<?php echo base_url('assets/css/Navigation.css')?>" rel="stylesheet">
     <link href="<?php echo base_url('assets/css/event.css')?>" rel="stylesheet">
-    <title>TRIAL AVRN</title>
+    <title>AVRN Foundation</title>
     
     
   </head>

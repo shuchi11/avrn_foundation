@@ -62,7 +62,7 @@ td.e2 {
 }
 
 div.left{
-  background-color:#10e7dc;
+  background-color:#3C7DFE;
   color: white;
   
 }
@@ -197,3 +197,6 @@ div.left1{
   width: 100%;
   border-width:0rem;
   padding: 0;}
+  .nav2{
+    margin-top: 10pt;
+  }
