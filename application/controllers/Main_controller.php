@@ -1,10 +1,17 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 class Main_controller extends CI_Controller{
-     function __construct(){
+
+
+    function __construct(){
         parent::__construct();
-        $this->load->model('main_model');
+        $this->load->model('Main_model');
    }
+
+   public function index(){
+    $this->load->view('main');
+   }
+
     public function main(){
         $this->load->view('main');
        // $data['news']=$this->Main_model->get_news();

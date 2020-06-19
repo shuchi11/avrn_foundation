@@ -6,6 +6,7 @@
     <?php 
       $this->view('includes/nav.php');
     ?>
+    <div style="margin-top: 100px;">
    <h1 style="text-align: center;">OUR TEAM</h1>
 
         <div class="shadow p-3 mb-5  rounded container">
@@ -66,6 +67,7 @@
       <div class="container">
       <p style="text-align: center;"> © 2020 Copyright AVRN Foundation</p>
     </div>
+</div>
 </div>
   
         <?php

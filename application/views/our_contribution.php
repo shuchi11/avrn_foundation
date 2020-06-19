@@ -12,7 +12,7 @@
         <div class="row">
           
          
-        <div class="container nav2" >
+        <div class="container nav2"  style="margin-top: 70px;" >
             <div class="row">
                
                 <div class="col-md-4">
