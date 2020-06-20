@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg fixed-top " style="background-image: linear-gradient(-90deg, #ccffff,#FF6699);" >
+<nav class="navbar navbar-expand-lg fixed-top " style="background-image: linear-gradient(#660066,#e600ac);" >
       <a class="navbar-brand" href="#">
         <img src="<?php echo base_url('assets/images/loogo.png')?>" alt="" loading="lazy">
       </a>
