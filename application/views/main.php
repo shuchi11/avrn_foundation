@@ -53,6 +53,14 @@
      
 
   </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3"><img class="img-responsive" src="<?php echo base_url('assets/images/suraksha.jpg')?>"  ></div>
+      <div class="col-md-3"><img class="img-responsive" src="<?php echo base_url('assets/images/suraksha2.jpg')?>" ></div>
+      <div class="col-md-6" style="padding: 50pt;"><h4 class="texth" >Distribution of Suraksha Kavach Masala by
+         AVRN Foundation to Old Age Homes and Shelter Homes.</h4><a class="nav-link" href="<?php echo base_url('Main_controller/open_our_contribution')?>"><button type="button" class="btn btn-success">Product Details</button></a></div>
+    </div>
+  </div>
   <h1 style="text-align: center;">WE WORK FOR</h1>
  
     <div class="container">
