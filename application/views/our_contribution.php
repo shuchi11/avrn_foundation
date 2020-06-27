@@ -15,7 +15,7 @@
         <div class="container nav2"  style="margin-top: 70px;" >
         <div class="row">
                
-               <div class="col-md-4">
+               <div class="col-md-4" style="padding-top: 50px;">
                  <img class="img-responsive" src="<?php echo base_url('assets/images/suraksha3.jpg')?>" >  
                </div>
                <div class="col-md-6">
@@ -34,7 +34,7 @@
              </h4></div>
             <div class="row">
                
-                <div class="col-md-4">
+                <div class="col-md-4" style="padding-top: 50px;">
                 <img class="img-responsive" src="<?php echo base_url('assets/images/cards.jpg')?>"  >
                 </div>
                 <div class="col-md-6">
@@ -50,7 +50,7 @@
             </div>
             <div class="row">
             
-              <div class="col-md-4">
+              <div class="col-md-4" style="padding-top: 50px;">
               <img class="img-responsive" src="<?php echo base_url('assets/images/paper_bag.jpeg')?>"  >
               </div>
               <div class="col-md-6">
@@ -66,7 +66,7 @@
           </div>
           <div class="row">
             
-              <div class="col-md-4">
+              <div class="col-md-4" style="padding-top: 50px;">
               <img class="img-responsive" src="<?php echo base_url('assets/images/ebook3.jpg')?>"  >
               </div>
               <div class="col-md-6">
